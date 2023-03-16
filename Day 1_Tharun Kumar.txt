@@ -1,0 +1,11 @@
+1. Write a blog on Difference between HTTP1.1 vs HTTP2
+
+Answer:
+The main difference HTTP1.1 vs HTTP2 is loading the packages
+
+HTTP1.1 loads the package one after another, in other HTTP2 loads all the packages at a same time, one disadvantage of HTTP1.1 if any of the packages get stucked means it will not load
+other package.
+
+2. Write a blog about objects and its internal representation in Javascrip
+
+object is a kind of data type, in which we can store collection of information of a particular object
